@@ -1,2 +1,3 @@
-# mini
-detecting disease
+Social media insight AI :
+
+The project aims to design and implement a system that augments the functionality of a pre-existing Language Model. Due to the intricate nature of LLM development, the decision is made to build upon an existing model rather than creating one from scratch. The system will execute diverse commands and offer detailed explanations for its decisions. Primary data sources for analysis include social media conversations, news articles, and blogs, contributing to an enhanced understanding of language patterns and user interactions.
